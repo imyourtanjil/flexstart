@@ -1,4 +1,4 @@
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<HTML TEMPLATE >>>>>>>>>>>>>>>>>>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<HTML >>>>>>>>>>>>>>>>>>>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,7 +33,7 @@
 </body>
 </html>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<AMAR CSS TEMPLETE>>>>>>>>>>>>>>>>>>>>>> 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<CSS >>>>>>>>>>>>>>>>>>>>>> 
 /* Fonts */
 :root {
   --default-font: "Roboto",  sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
